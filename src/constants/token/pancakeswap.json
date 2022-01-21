@@ -1,0 +1,63 @@
+{
+  "name": "DigiSwap Default List",
+  "timestamp": "2021-03-17T09:56:23Z",
+  "version": {
+    "major": 2,
+    "minor": 10,
+    "patch": 0
+  },
+  "tags": {},
+  "logoURI": "/images/DGP.png",
+  "keywords": ["digiswap", "default"],
+  "tokens": [
+
+    {
+      "name": "BUSD Token",
+      "symbol": "BUSD",
+      "address": "0xbaca21E2D472301013eBc35f4043636F1813fCB3",
+      "chainId": 97,
+      "decimals": 18,
+      "logoURI": "/images/coins/BUSD.png"
+    },
+    {
+      "name": "Dai Token",
+      "symbol": "DAI",
+      "address": "0xBff43aEBCeE2D132bad042629a59fa52d964281b",
+      "chainId": 97,
+      "decimals": 18,
+      "logoURI": "/images/coins/DAI.png"
+    },
+    {
+      "name": "Ethereum Token",
+      "symbol": "ETH",
+      "address": "0xA83FC928C4cB9D7034e2B5c4491E1517701e078E",
+      "chainId": 97,
+      "decimals": 18,
+      "logoURI": "/images/coins/ETH.png"
+    },
+    {
+      "name": "DigiSwap Token",
+      "symbol": "DGP",
+      "address": "0x9bcc3Be62Db13E7E4A9caFF4cb29B2fAD156BcEE",
+      "chainId": 97,
+      "decimals": 18,
+      "logoURI": "/images/coins/DGP.png"
+    },
+    {
+      "name": "Beta Token",
+      "symbol": "BETA",
+      "address": "0x19Eed2f35Ee92BD5cF542208f81EFFd20a9F8515",
+      "chainId": 97,
+      "decimals": 18,
+      "logoURI": "/images/tokens/BETA.png"
+    },
+    {
+      "name": "Tether USD",
+      "symbol": "USDT",
+      "address": "0x9154C6EE1Ad8cD1B9E18614137dc2e377Aab931C",
+      "chainId": 97,
+      "decimals": 18,
+      "logoURI": "/images/coins/USDT.png"
+    }
+  ]
+}
